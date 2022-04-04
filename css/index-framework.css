@@ -61,39 +61,39 @@
 }
 
 /*------ columns framework offset ------*/
-.offset-left-1 {
+.offset-1 {
     margin-left: calc((100% / 12) * 1);
 }
-.offset-left-2 {
+.offset-2 {
     margin-left: calc((100% / 12) * 2);
 }
-.offset-left-3 {
+.offset-3 {
     margin-left: calc((100% / 12) * 3);
 }
-.offset-left-4 {
+.offset-4 {
     margin-left: calc((100% / 12) * 4);
 }
-.offset-left-5 {
+.offset-5 {
     margin-left: calc((100% / 12) * 5);
 }
-.offset-left-6 {
+.offset-6 {
     margin-left: calc((100% / 12) * 6);
 }
-.offset-left-7 {
+.offset-7 {
     margin-left: calc((100% / 12) * 7);
 }
-.offset-left-8 {
+.offset-8 {
     margin-left: calc((100% / 12) * 8);
 }
-.offset-left-9 {
+.offset-9 {
     margin-left: calc((100% / 12) * 9);
 }
-.offset-left-10 {
+.offset-10 {
     margin-left: calc((100% / 12) * 10);
 }
-.offset-left-11 {
+.offset-11 {
     margin-left: calc((100% / 12) * 11);
 }
-.offset-left-12 {
+.offset-12 {
     margin-left: calc((100% / 12) * 12);
 }
