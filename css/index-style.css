@@ -1,30 +1,38 @@
+/*------ general ------*/
 .container {
     max-width: 1280px;
     margin: auto;
     height: 100vh;
 }
 
-.section1 ,.section2 {
-    background-color: #006cfa;
+/*------ font ------*/
+h2 {
+    margin: 20px 0;
+}
+
+/*------ sections ------*/
+.section1 ,.section2 ,.section3 {
     margin-top: 10px;
 }
 
+/*------ elements ------*/
 [class*="col-"] {
     border: 1px solid #fff;
+    background-color: #006cfa;
     height: 60px;
     line-height: 60px;
     text-align: center;
     color: #fff;
 }
 
-.row.nest {
-    margin: 10px;
-}
-
+/*------ nested elements ------*/
 [class*="col-"] [class*="col-"] {
     border: 1px solid #006cfa;
     height: 40px;
     line-height: 40px;
     text-align: center;
     background-color: #00e165;
+}
+.row.nest {
+    margin: 10px;
 }
