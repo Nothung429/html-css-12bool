@@ -1,0 +1,26 @@
+.container {
+    max-width: 1280px;
+    margin: auto;
+    height: 100vh;
+    background-color: #006cfa;
+}
+
+[class*="col-"] {
+    border: 1px solid #fff;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    color: #fff;
+}
+
+.row.nest {
+    margin: 10px;
+}
+
+[class*="col-"] [class*="col-"] {
+    border: 1px solid #006cfa;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background-color: #00e165;
+}
