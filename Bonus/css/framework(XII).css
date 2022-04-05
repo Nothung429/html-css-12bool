@@ -10,7 +10,7 @@
     flex-wrap: wrap;
 }
 
-/*------ columns framework ------*/
+/*------ columns framework standard ------*/
 .col {
     flex-grow: 1;
     flex-shrink: 0;
@@ -65,7 +65,7 @@
     max-width: calc((100% / 12) * 12);
 }
 
-/*------ columns framework offset ------*/
+/*------ columns framework offset standard ------*/
 .offset-1 {
     margin-left: calc((100% / 12) * 1);
 }
