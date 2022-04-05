@@ -1,5 +1,5 @@
 /*------ media query xs (0-576px) ------*/
-@media screen and (min-width: 576px) {
+@media screen and (min-width: 0px) {
     .col-xs {
         flex-grow: 1;
         flex-shrink: 0;
